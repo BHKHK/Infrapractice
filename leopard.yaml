@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Dante
+=======
+manager: Herald
+>>>>>>> conflict-1
 
 members:
 - Mina
